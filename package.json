@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moein3tare",
+  "license": "ISC",
+  "dependencies": {
+    "discord-anti-spam": "^2.5.1",
+    "discord-tickets": "^1.0.0",
+    "discord.js": "^12.2.0",
+    "opusscript": "0.0.7",
+    "util": "^0.12.3",
+    "ytdl-core": "^2.1.4"
+  }
+}
